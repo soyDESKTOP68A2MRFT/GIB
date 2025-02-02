@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Generic Internet Browser
+GenericName=GIB
+Comment=Basic Browser For My Personal Use
+Exec=/home/joni/slktools/browserexec
+Icon=network
+Terminal=false
+Type=Application
